@@ -2,7 +2,7 @@
 A portal to the other side where the council of wise resides.
 <br>
 <br>
-![Gate Of Ishtar](http://i63.tinypic.com/52nz8w.jpg)
+![Gate Of Ishtar](https://ibb.co/fNtvd1g)
 <br>
 # Background
 We are developing an action/roll-playing game which is happening in the ancient babylonian time. One important object in this fantasy world is “*The Gate Of Ishtar*”. Different champions in the game should occasionally pass through the gate and meet with the “*council of wise*”.
